@@ -19,7 +19,7 @@
     },
     "scripts": {
       "build": "npx webpack",
-      "test": "echo no test"
+      "test": "echo \"No test specified\""
     },
     "repository": {
       "type": "git",
